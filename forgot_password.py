@@ -4,7 +4,6 @@ import random
 from tkinter import messagebox
 import pymysql
 
-
 def forgot_to_login(root):
     root.destroy()
     from login_copy import login_call
